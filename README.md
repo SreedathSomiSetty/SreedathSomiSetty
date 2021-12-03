@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SreedathSomiSetty
-- 👀 I’m interested in Data Sciwnce and web development
+- 👀 I’m interested in Data Science and Web development
 - 🌱 I’m currently learning web mining.
 - 💞️ I’m looking to collaborate on data science projects
 
